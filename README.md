@@ -1,4 +1,4 @@
-# MathIF: Mathematical Instruction Following Dataset
+# MathIF:  Instruction-Following Benchmark for LRMs.
 
 This repository contains code for working with the MathIF dataset, which focuses on instruction following of LRMs.
 
