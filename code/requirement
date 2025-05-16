@@ -1,0 +1,13 @@
+vllm==0.7.3
+torchdata==0.11.0
+tensordict==0.6.0
+hydra-core
+wheel
+flash-attn==2.7.4.post1
+accelerate==1.6.0
+pylatexenc
+codetiming
+nltk
+langdetect
+immutabledict
+datasets
