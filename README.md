@@ -1,5 +1,5 @@
 <h1 style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 0;">
-  MathIF: Instruction-Following Benchmark for Large Reasoning Models
+  MathIF: Instruction-Following Benchmark for Large Reasoning Models (ACL 2026)
 </h1>
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-brightgreen)]() [![CUDA 12.4](https://img.shields.io/badge/CUDA-12.4-red)]() [![License](https://img.shields.io/badge/license-MIT-blue)]()
